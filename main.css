@@ -28,7 +28,7 @@
 }
 
 .logo {
-    background-image: url("/amazonproject/drive-download-20230717T174013Z-001/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -163,7 +163,7 @@ border: none;
                    /* hero section */
 
 .hero-section{
-    background-image: url("/amazonproject/drive-download-20230717T174013Z-001/hero_image.jpg");
+    background-image: url("hero_image.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -268,7 +268,7 @@ ul{
 }
 
 .footer-panel3-logo{
-    background-image: url("/amazonproject/drive-download-20230717T174013Z-001/amazon_logo.png");
+    background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;  
